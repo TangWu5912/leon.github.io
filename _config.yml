@@ -1,1 +1,5 @@
 hello-world-test
+
+# Build setting
+markdown: kramdown
+theme: minima
